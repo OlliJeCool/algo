@@ -1,0 +1,14 @@
+C:\Users\ollih\source\repos\LangaugeInclusion\LangaugeInclusion\bin\Debug\net8.0\LangaugeInclusion.exe
+C:\Users\ollih\source\repos\LangaugeInclusion\LangaugeInclusion\bin\Debug\net8.0\LangaugeInclusion.deps.json
+C:\Users\ollih\source\repos\LangaugeInclusion\LangaugeInclusion\bin\Debug\net8.0\LangaugeInclusion.runtimeconfig.json
+C:\Users\ollih\source\repos\LangaugeInclusion\LangaugeInclusion\bin\Debug\net8.0\LangaugeInclusion.dll
+C:\Users\ollih\source\repos\LangaugeInclusion\LangaugeInclusion\bin\Debug\net8.0\LangaugeInclusion.pdb
+C:\Users\ollih\source\repos\LangaugeInclusion\LangaugeInclusion\obj\Debug\net8.0\LangaugeInclusion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ollih\source\repos\LangaugeInclusion\LangaugeInclusion\obj\Debug\net8.0\LangaugeInclusion.AssemblyInfoInputs.cache
+C:\Users\ollih\source\repos\LangaugeInclusion\LangaugeInclusion\obj\Debug\net8.0\LangaugeInclusion.AssemblyInfo.cs
+C:\Users\ollih\source\repos\LangaugeInclusion\LangaugeInclusion\obj\Debug\net8.0\LangaugeInclusion.csproj.CoreCompileInputs.cache
+C:\Users\ollih\source\repos\LangaugeInclusion\LangaugeInclusion\obj\Debug\net8.0\LangaugeInclusion.dll
+C:\Users\ollih\source\repos\LangaugeInclusion\LangaugeInclusion\obj\Debug\net8.0\refint\LangaugeInclusion.dll
+C:\Users\ollih\source\repos\LangaugeInclusion\LangaugeInclusion\obj\Debug\net8.0\LangaugeInclusion.pdb
+C:\Users\ollih\source\repos\LangaugeInclusion\LangaugeInclusion\obj\Debug\net8.0\LangaugeInclusion.genruntimeconfig.cache
+C:\Users\ollih\source\repos\LangaugeInclusion\LangaugeInclusion\obj\Debug\net8.0\ref\LangaugeInclusion.dll

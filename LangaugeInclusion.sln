@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LangaugeInclusion", "LangaugeInclusion\LangaugeInclusion.csproj", "{418D76AA-9018-43C5-BADE-70B4C73961AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gramatika", "Gramatika\Gramatika.csproj", "{A3A635EE-7F10-43D8-9381-75D1448C243B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{418D76AA-9018-43C5-BADE-70B4C73961AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{418D76AA-9018-43C5-BADE-70B4C73961AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{418D76AA-9018-43C5-BADE-70B4C73961AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{418D76AA-9018-43C5-BADE-70B4C73961AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A635EE-7F10-43D8-9381-75D1448C243B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A635EE-7F10-43D8-9381-75D1448C243B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A635EE-7F10-43D8-9381-75D1448C243B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A635EE-7F10-43D8-9381-75D1448C243B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B132F2ED-23CC-4E45-96EC-3291756CA5AB}
+	EndGlobalSection
+EndGlobal
